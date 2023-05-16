@@ -1,3 +1,5 @@
+#palíndromo (ou seja, se é igual quando lida de trás para frente).
+
 class No:
     def __init__(self, valor):
         self.valor = valor
